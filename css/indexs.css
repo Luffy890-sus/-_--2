@@ -35,7 +35,7 @@
 }
 
 .text-3{
-    font-size: 7px;
+    font-size: 6px;
 }
 
 @media (min-width: 579px) {
@@ -47,7 +47,7 @@
     }
 }
 
-@media (min-width: 771px) {
+@media (min-width: 770px) {
     .text-3{
         font-size: 15px;
     }
